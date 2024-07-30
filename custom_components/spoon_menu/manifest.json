@@ -1,0 +1,11 @@
+{
+  "codeowners": ["@monkey-jeff"],
+  "config_flow": true,
+  "dependencies": [],
+  "documentation": "https://github.com/monkey-jeff/spoon_menu",
+  "domain": "spoon_menu",
+  "iot_class": "cloud_polling",
+  "name": "Spoon Menu",
+  "requirements": ["spoonacular==3.0"],
+  "version": "1.0.0"
+}
